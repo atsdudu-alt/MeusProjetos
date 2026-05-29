@@ -1,0 +1,6 @@
+{
+  "name": "Portfólio 3D",
+  "description": "Um portfólio interativo com animações e geometria 3D para exibir projetos de forma moderna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
