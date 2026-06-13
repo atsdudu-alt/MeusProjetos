@@ -32,7 +32,7 @@ export default function Portfolio() {
                 initial={{ scale: 0.9, opacity: 0, y: 20 }}
                 animate={{ scale: 1, opacity: 1, y: 0 }}
                 transition={{ duration: 1.5, ease: "easeOut" }}
-                className="text-5xl sm:text-7xl lg:text-9xl font-display font-bold text-slate-50 tracking-tight drop-shadow-2xl text-center group-hover:text-brand-400 transition-colors duration-700"
+                className="text-5xl sm:text-7xl lg:text-9xl font-display font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-br from-slate-50 to-slate-400 drop-shadow-2xl text-center group-hover:from-brand-300 group-hover:to-brand-500 transition-all duration-700"
               >
                 Eduardo J.A
               </motion.h1>
